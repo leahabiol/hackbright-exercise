@@ -1,4 +1,4 @@
-state = "Alabama"
+state = "California"
 animal = "frog"
 name = "Lee Attewode"
 number = 10
